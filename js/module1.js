@@ -1,2 +1,2 @@
 var $ = require('jquery');
-$('h1').html("new text");
+$('h1').html("Practice Shit");
